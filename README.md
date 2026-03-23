@@ -22,8 +22,4 @@
 - **الإشعارات**: لتذكيرك بالصلوات والأذكار.
 
 © 2026 عبدالعزيز الهويشان
-```
 
-3. Your Support URL becomes:
-```
-https://github.com/YOUR_USERNAME/fathakkir-support
