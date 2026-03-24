@@ -37,4 +37,4 @@ Fathakkir fully respects your privacy.
 
 ---
 
-© 2026 عبدالعزيز الحويشان | Abdulaziz Alhuwayshan
+© 2026 عبدالعزيز الهويشان | Abdulaziz Alhuwayshan
